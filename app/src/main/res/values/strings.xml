@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Screen App</string>
+    <string name="image_description">Mountain View</string>
+    <string name="joe_image_description">JoeGamal Image</string>
+    <string name="with_the_moon">Go with the Moon </string>
+    <string name="happy">^;^</string>
+    <string name="contact_head_line">Contact:</string>
+    <string name="phone_num">+20 01011804041</string>
+    <string name="mail">joegamal9900@gmail.com</string>
+</resources>
